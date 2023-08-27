@@ -1,0 +1,8 @@
+# Stats-and-Public-Health
+This repository is dedicated to the predictive analysis of West Nile Virus spread. 
+
+West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
+
+<img align="right" alt="Coding" width="450" src="https://github.com/amirkiaml/media/blob/main/virus.png">
+
+This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
